@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Farray';  src: url('/fonts/Farray.otf');
+}
+@font-face {
+  font-family: 'HighTide';  src: url('/fonts/HighTide.otf');
+}
+@font-face {
+  font-family: 'Nougatine';  src: url('/fonts/Nougatine.ttf');
+}
+@font-face {
+  font-family: 'Porto';  src: url('/fonts/Porto.ttf');
+}
+@font-face {
+  font-family: 'Simplifica';  src: url('/fonts/Simplifica.ttf');
+}
+
+// Our variables
+@import "variables";
+
+// Libs
+@import "~font-awesome/scss/font-awesome";
+@import "~bootstrap/scss/bootstrap";
+
+// Our Theme
+@import "cover";
